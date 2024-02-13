@@ -1,0 +1,32 @@
+body{
+    background:rgba(50, 182, 5,1);
+}
+div#container {
+    width: 800px;
+    margin:auto;
+    background-color: antiquewhite;
+    border: 15px solid green;
+    
+}
+main{
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+header{
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(238, 189, 13);
+}
+footer{
+    text-align: right;
+    padding:30px;
+    font-size: .8em;
+    background-color: rgb(185, 144, 8);
+}
+p, header, footer{
+    font-family: Georgia, Tahoma;
+    color: rgba(134, 33, 33,1);
+}
